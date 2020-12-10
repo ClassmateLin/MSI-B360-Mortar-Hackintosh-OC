@@ -1,4 +1,6 @@
-# MSI-B360-Mortar-OC
+# MSI-B360-Mortar-Hackintosh-OC
+
+**微星B360M迫击炮+i39100f+RX580完美黑苹果opencore配置**。
 
 ### 支持版本
 
